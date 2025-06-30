@@ -78,3 +78,29 @@ Unfortunately I had to redo the schematic and pcb because when I changed the siz
 **Time spent this session: 3.5 hours**
 
 </details>
+
+
+# June 30th - Placed the diodes ...again (2 hours)
+
+<details>
+<summary>Click to expand</summary>
+
+I rotated all the symbols for key switches in the schematic by 180 degrees so that the wiring would be much cleaner, I originally tried to make a script that does that in one go, but I gaved up and decided to just rotate them all manually <img src="https://cdn.discordapp.com/emojis/1357156702943973376.webp?size=80" alt="" width="25" height="25">
+
+I also placed all the diodes on the PCB, and whilst wiring up the columns, I realised that the row traces will block the connection
+
+![image](https://github.com/user-attachments/assets/d28fbd1f-13dd-410f-90f1-77ff33e12cb1)
+
+And since the hotswap sockets and diodes are both surface mounted, I'd have to create a via at all the column connections
+
+![image](https://github.com/user-attachments/assets/5cf23016-af97-40ce-85c8-3b2a16c5ed5f)
+
+Pretty sure I can just use the footprint that have the holes plated, that way I can just wire the column to the THT pad, I'll figure that out next time.
+
+![image](https://github.com/user-attachments/assets/8aa9d298-7d9e-43e5-a7dd-9cd6c26c0b48)
+
+
+
+**Time spent this session: 2 hours**
+
+</details>
