@@ -104,3 +104,28 @@ Pretty sure I can just use the footprint that have the holes plated, that way I 
 **Time spent this session: 2 hours**
 
 </details>
+
+# July 8-9th - Started wiring the rows and columns (1.5 hours)
+
+<details>
+<summary>Click to expand</summary>
+
+Like I mentioned in the last journal entry, i ran in to a "issue" where I would need to create multiple vias in order to properly wire the columns which I thought doesn't look as good, so I found a hotswap footprint with the hole being plated, this way, it can serve as a via (through hole) itself, and I won't have to place down multiple vias
+
+| Before | After |
+|--------|-------|
+| ![image](https://github.com/user-attachments/assets/5cf23016-af97-40ce-85c8-3b2a16c5ed5f) | ![image](https://github.com/user-attachments/assets/1b03a554-eae5-4597-8c6f-dc0109909cd7) |
+
+## NO VIAS!
+
+Since I am now using a different footprint, I had to reassign the 3D models to the switches which took quite a while
+
+Once I finished with that, I began wiring up the rows and columns!
+
+![image](https://github.com/user-attachments/assets/87d88d12-1aef-48c4-81a0-a367e217164a)
+
+It's now 00:15am <img src="https://cdn.discordapp.com/emojis/1357156702943973376.webp?size=80" alt="" width="25" height="25"> lol, I'll continue wiring up the rows tomorrow and will replace the neopixel footprint with a reverse mounted one.
+
+**Time spent this session: 1.5 hours**
+
+</details>
