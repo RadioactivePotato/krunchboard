@@ -129,3 +129,34 @@ It's now 00:15am <img src="https://cdn.discordapp.com/emojis/1357156702943973376
 **Time spent this session: 1.5 hours**
 
 </details>
+
+# June 9th - "Finished" PCB and Case (4 hours)
+
+<details>
+<summary>Click to expand</summary>
+
+Today I finished wiring up the rows and columns of the PCB (I haven't connected it to the Pico yet since I still haven't decided the final location of the Pico).
+
+I also added 6 M3 mounting holes for it to attach to the case and replaced the SK6812-Mini-E footprint with a reverse mountable one.
+
+![image](https://github.com/user-attachments/assets/7be5c1fb-7d5c-467e-9f5c-fa689d81ff5d)
+
+![image](https://github.com/user-attachments/assets/82c047aa-0207-4da6-a241-c66571dfffa6)
+
+| Front | Back |
+|-------|------|
+| ![image](https://github.com/user-attachments/assets/8b727315-e696-4003-9f75-a62e2c3a1309) | ![image](https://github.com/user-attachments/assets/a6c96cf6-f1c3-4556-9b82-c1fdf4401b61) |
+
+## Case Design
+
+I designed it in OnShape, I started by placing the PCB layout (from 3D viewer) on the sketch, and then drew the slots for the components in the back of the PCB to sit in, I also added a few "beams" to support the middle of the PCB.
+
+| - | - |
+|---|---|
+| ![image](https://github.com/user-attachments/assets/451418c7-7051-44d7-9edd-448f1bf769a9) | ![image](https://github.com/user-attachments/assets/2bc58864-22bf-49fd-b4eb-1104e176bf65) |
+
+![image](https://github.com/user-attachments/assets/87276561-d8a4-45c6-95f7-bcd1cae5f7d2)
+
+**Time spent this session: 4 hours**
+
+</details>
