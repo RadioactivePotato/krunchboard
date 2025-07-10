@@ -24,13 +24,13 @@ A 85% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
 | 1    | 0.91" OLED Display                 |                           | £5.99     | [Amazon](https://www.amazon.co.uk/dp/B07MHGPNVT) |
 |------|------------------------------------|---------------------------|-----------|---------|
 | 90   | GATERON Milky Yellow Linear Switch | For main keyboard switches| £17.69    | [AliExpress](https://www.aliexpress.com/item/1005006425450443.html) |
-| 10   | Tactile MX-Style Switch            | For macro keys            | £3.99     | [Amazon](https://www.amazon.co.uk/dp/B0DSJ21RD) |
-| 1    | Keycaps Set                        |                           | £16.72    | [AliExpress](www.aliexpress.com/item/1005007320960510.html) |
+| 10   | Tactile MX-Style Switch            | For macro keys            | £3.99     | [Amazon](https://www.amazon.co.uk/dp/B0DSJ21RDS) |
+| 1    | Keycaps Set                        |                           | £16.72    | [AliExpress](https://www.aliexpress.com/item/1005007320960510.html) |
 |------|------------------------------------|---------------------------|-----------|---------|
 | 6    | M3x5mmx4mm Heatset Inserts (W*H)   | For mounting              |           |         |
 | 6    | M3x4mm Screws                      | For case assembly         | £3.39     | [Amazon](https://www.amazon.co.uk/dp/B0DRGVKT3R) |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 1    | Solder Paste                       |                           | £6.78     | [Amazon](https://www.amazon.co.uk/dp/B0DJX4D5B)
+| 1    | Solder Paste                       |                           | £6.78     | [Amazon](https://www.amazon.co.uk/dp/B0DJX4D5BK)
 | 1    | Solder Wire                        |                           | £3.99     | [Amazon](https://www.amazon.co.uk/dp/B0B1M3B5L3)
 |------|------------------------------------|---------------------------|-----------|---------|
 | 1    | 3D Printed Case                    | Custom enclosure          |           | print-legion |
