@@ -32,6 +32,7 @@ A 85% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
 | 1    | 0.91" OLED Display                 |                           | £1.89     | [AliExpress](https://www.aliexpress.com/item/1005008640132638.html) |
 | 1    | MX Stabilisers Set                 | For big keycaps           | £8.79     | [Amazon](https://www.amazon.co.uk/dp/B0C61DXN18) |
 | 1    | MCP23017 GPIO Expander (SOIC-28)   | I will buy this myself    | £1.43     | [DigiKey](https://www.digikey.co.uk/en/products/detail/microchip-technology/MCP23017-E-SO/894271) |
+| 6    | SK6812MINI-E / SK6812E Neopixel    | Already have some         | £2.17     | [DigiKey](https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/4960/14302512)
 |------|------------------------------------|---------------------------|-----------|---------|
 | 1    | Keycaps Set                        | -£16.73 welcome discount  | £16.72    | [AliExpress](https://www.aliexpress.com/item/1005007320960510.html) |
 | 87   | GATERON Milky Yellow Linear Switch | Main keyboard switches    | £17.69    | [AliExpress](https://www.aliexpress.com/item/1005006425450443.html) |
