@@ -3,16 +3,23 @@ A 85% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
 
 # Images
 
-| Schematic | PCB | 3D Preview | Case |
-|:---------:|:---:|:----:|:----:|
-| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/schematic.png) | ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/cad-v1.png) |
-| | | ![3D-Back](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/3dback.png) | |
+<details>
+<summary>Schematic (click to expand)</summary>
+
+| Schematic |
+|-----------|
+| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/schematic.png) |
+
+</details>
+
+| PCB | 3D Preview | Case |
+|-----|------------|------|
+| ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/cad-v1.png) |
+| | ![3D-Back](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/3dback.png) | |
 
 # Case
 
-| Layout | Layout | Layout |
-| :----: | :----: | :----: |
-| ![](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/case/case1.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/case/case2.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/case/case3.png) |
+ ![](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/case.png)
 
 # BOM
 | Qty  | Item                               | Notes                     | Cost (GBP)| URL     |
