@@ -1,5 +1,5 @@
-# krunchboa5d
-A 85% ISO mechanical keyboard powered by Raspberry Pi Pico
+# krunchboard
+A 85% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
 
 # Images
 
@@ -15,26 +15,26 @@ A 85% ISO mechanical keyboard powered by Raspberry Pi Pico
 | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/case/case1.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/case/case2.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/case/case3.png) |
 
 # BOM
-| Qty  | Item                               | Notes                     | Cost (USD)| URL     |
+| Qty  | Item                               | Notes                     | Cost (GBP)| URL     |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 1    | Seeed Studio XIAO RP2040           | Microcontroller           | $4.68     | [URL](https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/102010428/14672129) |
-| 12   | THT 1N4148 Diode (DO-35 Footprint) | For switch matrix         | $0.41     | [URL](https://www.digikey.co.uk/en/products/detail/diotec-semiconductor/1N4148/13164514) |
-| 12   | MX-Style Switches                  | Mechanical key switches   |           |         |
-| 1    | EC11 Rotary Encoder                | Volume control            | $1.87     | [URL](https://www.digikey.co.uk/en/products/detail/bourns-inc/PEC11R-4215K-S0012/4499639) |
-| 1    | 0.91" OLED Display                 |                           |           |         |
-| 12   | Keycaps                            |                           |           |         |
-| 5    | M3x5mmx4mm Heatset Inserts (W*H)   | For mounting              |           |         |
-| 6    | M3 Screws (5.6mm Max)              | For case assembly         |           |         |
+| 1    | Raspberry Pi Pico                  | Microcontroller           | £6.79     | [Amazon](https://www.amazon.co.uk/dp/B09KVB8LVR) |
+| 12   | SMD 1N4148 Diode (----- Footprint) | Switch matrix             |           |         |
+| 1    | EC11 Rotary Encoder (with knob)    | Volume control            | £7.99     | [Amazon](https://www.amazon.co.uk/dp/B08728PS6N) |
+| 100  | Kailh MX Hotswap Socket            | Hotswapping for switches  | $19.99    | [Amazon](https://www.amazon.co.uk/dp/B0DJKT2Y2F) |
+| 1    | 0.91" OLED Display                 |                           | £5.99     | [Amazon](https://www.amazon.co.uk/dp/B07MHGPNVT) |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 1    | Soldering Iron + Solder            | Tools                     |           |         |
-| 1    | 3D Printed Case                    | Custom enclosure          |           |         |
-| 1    | PCB                                |                           |           |         |
+| 90   | GATERON Milky Yellow Linear Switch | For main keyboard switches| £17.69    | [AliExpress](https://www.aliexpress.com/item/1005006425450443.html) |
+| 10   | Tactile MX-Style Switch            | For macro keys            | £3.99     | [Amazon](https://www.amazon.co.uk/dp/B0DSJ21RD) |
+| 1    | Keycaps Set                        |                           | £16.72    | [AliExpress](www.aliexpress.com/item/1005007320960510.html) |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 2    | 2.54mm 4POS Header (Included)      | OLED Mounting             |           |         |
-| 2    | 2.54mm 4POS Socket                 | OLED Mounting             | $0.25     | [URL](https://www.digikey.co.uk/en/products/detail/adam-tech/RS1-04-G/9829303) |
-| 2    | 2.54mm 7POS Header                 | MCU Mounting              | $0.20     | [URL](https://www.digikey.co.uk/en/products/detail/adam-tech/PH1-07-UA/9830505) |
-| 2    | 2.54mm 7POS Socket                 | MCU Mounting              | $0.84     | [URL](https://www.digikey.co.uk/en/products/detail/adam-tech/RS1-07-G/9832045) |
-| 12   | Kailh MX Hotswap Socket (Optional) | Hotswapping for switches  | $4.95     | [URL](https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/4958/13997772) |
+| 6    | M3x5mmx4mm Heatset Inserts (W*H)   | For mounting              |           |         |
+| 6    | M3x4mm Screws                      | For case assembly         | £3.39     | [Amazon](https://www.amazon.co.uk/dp/B0DRGVKT3R) |
+|------|------------------------------------|---------------------------|-----------|---------|
+| 1    | Solder Paste                       |                           | £6.78     | [Amazon](https://www.amazon.co.uk/dp/B0DJX4D5B)
+| 1    | Solder Wire                        |                           | £3.99     | [Amazon](https://www.amazon.co.uk/dp/B0B1M3B5L3)
+|------|------------------------------------|---------------------------|-----------|---------|
+| 1    | 3D Printed Case                    | Custom enclosure          |           | print-legion |
+| 1    | PCB                                |                           |           | JLCPCB  |
 |------|------------------------------------|---------------------------|-----------|---------|
 
 # Cases
