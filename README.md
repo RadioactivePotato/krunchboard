@@ -45,15 +45,10 @@ A 85% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
 | 1    | Solder Wire                        | 50g                       | £3.73     | [AliExpress](https://www.aliexpress.com/item/1005008053204920.html) |
 |------|------------------------------------|---------------------------|-----------|---------|
 | 1    | 3D Printed Case                    | print-legion postage      | £3.35     | print-legion |
-| 1    | PCB                                | PCB + Plate               | £54.99    | JLCPCB  |
+| 1    | PCB                                | PCB + Plate               | £30.77    | JLCPCB  |
 |------|------------------------------------|---------------------------|-----------|---------|
-| -    | Total cost (GBP, USD)              | (free shipping, inc. vat) | £141.93   | $192.71 |
+| -    | Total cost (GBP, USD)              | (free shipping, inc. vat) | £117.71   | $159.85 |
 
 AliExpress Total: £56.65
 
 Amazon Total: £25.14
-
-<img width="1264" height="389" alt="image" src="https://github.com/user-attachments/assets/b613120e-9728-4869-94e5-d0d912e3a8a0" />
-
-PCB can be separated to 2 orders and use Global Shipping Direct Line, the cost will become 32.91+41.79 = 74.70USD (This is the cost the BOM uses)
-
