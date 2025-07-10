@@ -130,7 +130,7 @@ It's now 00:15am <img src="https://cdn.discordapp.com/emojis/1357156702943973376
 
 </details>
 
-# June 9th - "Finished" PCB and Case (4 hours)
+# July 9th - "Finished" PCB and Case (4 hours)
 
 <details>
 <summary>Click to expand</summary>
@@ -156,6 +156,28 @@ I designed it in OnShape, I started by placing the PCB layout (from 3D viewer) o
 | ![image](https://github.com/user-attachments/assets/451418c7-7051-44d7-9edd-448f1bf769a9) | ![image](https://github.com/user-attachments/assets/2bc58864-22bf-49fd-b4eb-1104e176bf65) |
 
 ![image](https://github.com/user-attachments/assets/87276561-d8a4-45c6-95f7-bcd1cae5f7d2)
+
+**Time spent this session: 4 hours**
+
+</details>
+
+# July 10th - Plate, BOM, and Files (4 hours)
+
+<details>
+<summary>Click to expand</summary>
+
+Today I writtened the BOM in the README file, I also imported all the files necessary to the GitHub repo.
+
+I used [keyboard-layout-editor.com](https://keyboard-layout-editor.com) and [kbplate.ai03.com](https://kbplate.ai03.com) to generate the DXF image, then I imported it to KiCad's `Edge.Cuts` layer. Since I have an OLED display and a rotary encoder, I had to manually draw the cutouts for it.
+
+<img width="1010" height="370" alt="image" src="https://github.com/user-attachments/assets/1ff0dcf4-f46f-49e2-8a9a-15eb7fe3322f" />
+
+I was originally going to use FR4 for the plate, but I soon realised that would be too expensive (about $60 incl. shipping), so I resorted to 3D printing. I exported the PCB as stl and imported it to Bambu studio, where I cut the model in half and it was able to fit on the print bed. I also did this for the case since it was also too big.
+
+I will finish up the final bits of wiring on the main PCB and begin the firmware work (KMK). I should be able to submit this project over the weekend (July 12-13).
+
+<img width="676" height="471" alt="image" src="https://github.com/user-attachments/assets/43f2cda3-331a-4a1d-8dcf-cd7f7f6ccabf" />
+<img width="293" height="106" alt="image" src="https://github.com/user-attachments/assets/30ae0016-fc78-49e9-b732-ced44f662fb2" />
 
 **Time spent this session: 4 hours**
 
