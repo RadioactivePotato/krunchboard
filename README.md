@@ -18,24 +18,27 @@ A 85% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
 | Qty  | Item                               | Notes                     | Cost (GBP)| URL     |
 |------|------------------------------------|---------------------------|-----------|---------|
 | 1    | Raspberry Pi Pico                  | Microcontroller           | £6.79     | [Amazon](https://www.amazon.co.uk/dp/B09KVB8LVR) |
-| 12   | SMD 1N4148 Diode (----- Footprint) | Switch matrix             |           |         |
+| 93   | 1N4148W Diode (SOD-123)            | Switch matrix             | £1.69     | [AliExpress](https://www.aliexpress.com/item/1005009063199018.html) |
 | 1    | EC11 Rotary Encoder (with knob)    | Volume control            | £7.99     | [Amazon](https://www.amazon.co.uk/dp/B08728PS6N) |
-| 100  | Kailh MX Hotswap Socket            | Hotswapping for switches  | $19.99    | [Amazon](https://www.amazon.co.uk/dp/B0DJKT2Y2F) |
+| 92   | Kailh MX Hotswap Socket            | Hotswapping for switches  | $19.99    | [Amazon](https://www.amazon.co.uk/dp/B0DJKT2Y2F) |
 | 1    | 0.91" OLED Display                 |                           | £5.99     | [Amazon](https://www.amazon.co.uk/dp/B07MHGPNVT) |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 90   | GATERON Milky Yellow Linear Switch | For main keyboard switches| £17.69    | [AliExpress](https://www.aliexpress.com/item/1005006425450443.html) |
-| 10   | Tactile MX-Style Switch            | For macro keys            | £3.99     | [Amazon](https://www.amazon.co.uk/dp/B0DSJ21RDS) |
 | 1    | Keycaps Set                        |                           | £16.72    | [AliExpress](https://www.aliexpress.com/item/1005007320960510.html) |
+| 87   | GATERON Milky Yellow Linear Switch | For main keyboard switches| £17.69    | [AliExpress](https://www.aliexpress.com/item/1005006425450443.html) |
+| 5    | Tactile MX-Style Switch            | For macro keys            | £3.99     | [Amazon](https://www.amazon.co.uk/dp/B0DSJ21RDS) |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 6    | M3x5mmx4mm Heatset Inserts (W*H)   | For mounting              |           |         |
+| 6    | M3x5mmx4mm Heatset Inserts (W*H)   | For mounting              | £2.19     | [Amazon](https://www.amazon.co.uk/dp/B0D1WVNW3G) |
 | 6    | M3x4mm Screws                      | For case assembly         | £3.39     | [Amazon](https://www.amazon.co.uk/dp/B0DRGVKT3R) |
 |------|------------------------------------|---------------------------|-----------|---------|
 | 1    | Solder Paste                       |                           | £6.78     | [Amazon](https://www.amazon.co.uk/dp/B0DJX4D5BK)
 | 1    | Solder Wire                        |                           | £3.99     | [Amazon](https://www.amazon.co.uk/dp/B0B1M3B5L3)
 |------|------------------------------------|---------------------------|-----------|---------|
-| 1    | 3D Printed Case                    | Custom enclosure          |           | print-legion |
-| 1    | PCB                                |                           |           | JLCPCB  |
+| 1    | 3D Printed Case                    |                           |           | print-legion |
+| 1    | PCB                                | PCB + Plate               |           | JLCPCB  |
 |------|------------------------------------|---------------------------|-----------|---------|
+| -    | Total cost (GBP, USD)              | (free shipping, inc. vat) | £97.20    | $131.74 |
+
+6.79+1.69+7.99+19.99+5.99+16.72+17.69+3.99+2.19+3.39+6.78+3.99
 
 # Cases
 - V1
