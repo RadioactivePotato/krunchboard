@@ -1,6 +1,9 @@
 # krunchboard
 A 85% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
 
+# About
+I made this keyboard after I designed my [macropad](https://github.com/RadioactivePotato/krunchpad), and I thought this would be a fun project to do, I've also never owned a mechanical keyboard so maybe this is a good way to start?
+
 # Images
 
 <details>
