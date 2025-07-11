@@ -182,3 +182,30 @@ I will finish up the final bits of wiring on the main PCB and begin the firmware
 **Time spent this session: 4 hours**
 
 </details>
+
+# July 11 - Art and Firmware (4 hours)
+
+<details>
+<summary>Click to expand</summary>
+
+Today I created the firmware, a large portion of the code is based on the ANAVI macropad 12's firmware, I followed my schematic and [the keycode list](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/keycodes.md) to code the keymaps.
+
+I also finished up all the wiring on the pcb, It took quite a while and I had to move some of the traces which was originally going to the Pico, but now it's moved to the MCP23017.
+
+Also used maybe too many vias lol
+
+<img width="703" height="466" alt="image" src="https://github.com/user-attachments/assets/96af57ac-7f83-45fc-a0a9-5f8b26a18497" />
+<img width="719" height="448" alt="image" src="https://github.com/user-attachments/assets/5d13f8d9-41d4-41dd-a128-fa05bf6c8b18" />
+<img width="308" height="479" alt="image" src="https://github.com/user-attachments/assets/96df655d-6297-40e6-892d-875c64262945" />
+
+To fill in the blank space in the back of the PCB, I converted the Highway artwork to KiCad silkscreen.
+
+<img width="947" height="476" alt="image" src="https://github.com/user-attachments/assets/99359063-43f3-4336-acf5-c3b8758ad178" />
+
+And then I added some silkscreen art to the front as well, and then added a 0.96" OLED display.
+
+<img width="1100" height="379" alt="image" src="https://github.com/user-attachments/assets/83e25fe5-1e85-4b1f-8491-08f185fd612a" />
+
+And that's the whole project done!
+
+</details>
