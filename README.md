@@ -27,15 +27,17 @@ I made this keyboard after I designed my [macropad](https://github.com/Radioacti
 # BOM
 | Qty  | Item                               | Notes                     | Cost (GBP)| URL     |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 1    | Raspberry Pi Pico                  | USB-C Clone           | £1.92     | [AliExpress](https://www.aliexpress.com/item/1005006067365069.html) |
+| 1    | Raspberry Pi Pico                  | USB-C Clone               | £1.92     | [AliExpress](https://www.aliexpress.com/item/1005006067365069.html) |
 | 93   | 1N4148W Diode (SOD-123)            | Switch matrix             | £1.69     | [AliExpress](https://www.aliexpress.com/item/1005009063199018.html) |
 | 1    | EC11 Rotary Encoder                |                           | £1.89     | [AliExpress](https://www.aliexpress.com/item/1005008413622715.html) |
 | 1    | Rotary Encoder Knob                |                           | £0.95     | [AliExpress](https://www.aliexpress.com/item/1005008413622715.html) |
 | 92   | Kailh MX Hotswap Socket            | Hotswapping for switches  | £7.10     | [AliExpress](https://www.aliexpress.com/item/1005004290562374.html) |
 | 1    | 0.91" OLED Display                 |                           | £1.89     | [AliExpress](https://www.aliexpress.com/item/1005008640132638.html) |
+| 1    | 0.96" OLED Display                 |                           | £1.97     | [AliExpress](https://www.aliexpress.com/item/1005007772649282.html) |
 | 1    | MX Stabilisers Set                 | For big keycaps           | £8.79     | [Amazon](https://www.amazon.co.uk/dp/B0C61DXN18) |
 | 1    | MCP23017 GPIO Expander (SOIC-28)   | I will buy this myself    | £1.43     | [DigiKey](https://www.digikey.co.uk/en/products/detail/microchip-technology/MCP23017-E-SO/894271) |
-| 6    | SK6812MINI-E / SK6812E Neopixel    | Already have some         | £2.17     | [DigiKey](https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/4960/14302512)
+| 2    | 4 Slot 2.54mm Socket               | I will buy this myself    | £0.50     | [DigiKey](https://www.digikey.co.uk/en/products/detail/adam-tech/RS1-04-G/9829303) |
+| 6    | SK6812MINI-E / SK6812E Neopixel    | Already have some         | £2.17     | [DigiKey](https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/4960/14302512) |
 |------|------------------------------------|---------------------------|-----------|---------|
 | 1    | Keycaps Set                        | -£16.73 welcome discount  | £16.72    | [AliExpress](https://www.aliexpress.com/item/1005007320960510.html) |
 | 87   | GATERON Milky Yellow Linear Switch | Main keyboard switches    | £17.69    | [AliExpress](https://www.aliexpress.com/item/1005006425450443.html) |
@@ -48,11 +50,11 @@ I made this keyboard after I designed my [macropad](https://github.com/Radioacti
 | 1    | Solder Wire                        | 50g                       | £3.73     | [AliExpress](https://www.aliexpress.com/item/1005008053204920.html) |
 |------|------------------------------------|---------------------------|-----------|---------|
 | 1    | 3D Printed Case                    | print-legion postage      | £3.35     | print-legion |
-| 1    | PCB                                | PCB + Plate               | £30.77    | JLCPCB  |
+| 1    | PCB                                | PCB                       | £30.77    | JLCPCB  |
 |------|------------------------------------|---------------------------|-----------|---------|
-| -    | Total cost (GBP, USD)              | (free shipping, inc. vat) | £117.71   | $159.85 |
+| -    | Total cost (GBP, USD)              | (free shipping, inc. vat) | £114.61   | $154.77 |
 
-AliExpress Total: £56.65
+AliExpress Total: £54.55
 
 Amazon Total: £25.14
 
