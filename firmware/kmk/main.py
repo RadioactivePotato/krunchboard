@@ -10,18 +10,28 @@ from kmk.extensions.RGB import RGB, AnimationModes
 from kmk.keys import KC
 from kmk.modules.mcp23017 import MCP23017
 
-i2c = busio.I2C(scl=board.GP1, sda=board.GP0)
+i2c0 = busio.I2C(scl=board.GP1, sda=board.GP0)
+i2c1 = busio.I2C(scl=board.GP1, sda=board.GP0)
 
-mcp = MCP23017(i2c, address=0x20)
+mcp = MCP23017(i2c0, address=0x20)
 
 keyboard = KMKKeyboard()
 
-display = Display(
-    display=SSD1306(sda=board.GP0, scl=board.GP1),
-    entries=[TextEntry(text='Hello World')],
+# 0.91" oled
+display32 = Display(
+    display=SSD1306(i2c=i2c0, address=0x3C),
+    entries=[TextEntry(text='Hello World 32')],
     height=32,
 )
-keyboard.extensions.append(display)
+keyboard.extensions.append(display32)
+
+# 0.96" oled
+display64 = Display(
+    display=SSD1306(i2c=i2c1, address=0x3C),
+    entries=[TextEntry(text='Hello World 64')],
+    height=64,
+)
+keyboard.extensions.append(display64)
 
 # pico neopixel
 frontglow = RGB(

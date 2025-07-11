@@ -100,7 +100,8 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -220,6 +221,7 @@
     "layer_presets": [
       {
         "activeLayer": -2,
+        "flipBoard": false,
         "layers": [
           0,
           1,
@@ -631,7 +633,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/root/Downloads/krunchpad-dxf/",
+      "plot": "C:/Users/root/Downloads/krunchboard-gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../../Downloads/krunchboard-pcb.stl",
