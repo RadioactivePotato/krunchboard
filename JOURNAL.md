@@ -1,9 +1,11 @@
 ---
 title: "krunchboard"
 author: "slack: krunch"
-description: "Tenkeyless ISO105  mechanical keyboard"
+description: "A 85% ISO mechanical keyboard powered by Raspberry Pi Pico"
 created_at: "2025-06-26"
 ---
+
+# Total time spent: 26 hours
 
 # June 26th - Made the schematic (3 hours)
 
