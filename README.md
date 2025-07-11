@@ -24,7 +24,7 @@ A 85% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
 # BOM
 | Qty  | Item                               | Notes                     | Cost (GBP)| URL     |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 1    | Raspberry Pi Pico                  | Microcontroller           | £6.79     | [AliExpress](https://www.aliexpress.com/item/1005006902413062.html) |
+| 1    | Raspberry Pi Pico                  | USB-C Clone           | £1.92     | [AliExpress](https://www.aliexpress.com/item/1005006067365069.html) |
 | 93   | 1N4148W Diode (SOD-123)            | Switch matrix             | £1.69     | [AliExpress](https://www.aliexpress.com/item/1005009063199018.html) |
 | 1    | EC11 Rotary Encoder                |                           | £1.89     | [AliExpress](https://www.aliexpress.com/item/1005008413622715.html) |
 | 1    | Rotary Encoder Knob                |                           | £0.95     | [AliExpress](https://www.aliexpress.com/item/1005008413622715.html) |
