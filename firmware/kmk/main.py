@@ -6,6 +6,7 @@ from kmk.scanners import DiodeOrientation
 from kmk.extensions.display import Display, TextEntry
 from kmk.extensions.display.ssd1306 import SSD1306
 from kmk.extensions.media_keys import MediaKeys
+from kmk.extensions.RGB import RGB, AnimationModes
 from kmk.keys import KC
 from kmk.modules.mcp23017 import MCP23017
 
@@ -22,6 +23,26 @@ display = Display(
 )
 keyboard.extensions.append(display)
 
+# pico neopixel
+frontglow = RGB(
+    pixel_pin=board.GP25,
+    num_pixels=1,
+    val_limit=100,
+    val_default=25,
+    animation_mode=AnimationModes.RAINBOW,
+)
+keyboard.extensions.append(frontglow)
+
+# sk6812e
+underglow = RGB(
+    pixel_pin=mcp.P8,
+    num_pixels=6,
+    val_limit=100,
+    val_default=25,
+    animation_mode=AnimationModes.RAINBOW,
+)
+keyboard.extensions.append(underglow)
+
 keyboard.col_pins = (
     board.GP21, # C0
     board.GP22,
@@ -35,22 +56,22 @@ keyboard.col_pins = (
     board.GP9,
     board.GP10,
     board.GP11,
-    board.GP12,
-    board.GP13,
-    board.GP14,
-    board.GP15,
-    board.GP16,
-    board.GP17,
-    board.GP18, # C18
+    mcp.P1, # C12
+    mcp.P2, # C13
+    mcp.P3, # C14
+    mcp.P4, # C15
+    mcp.P5, # C16
+    mcp.P6, # C17
+    mcp.P7, # C18
 )
 
 keyboard.row_pins = (
-    mcp.P0, # R0
-    mcp.P1,
-    mcp.P2,
-    mcp.P3,
-    mcp.P4,
-    mcp.P5, # R5
+    mcp.P21, # R0
+    mcp.P22,
+    mcp.P23,
+    mcp.P24,
+    mcp.P25,
+    mcp.P26, # R5
 )
 
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
