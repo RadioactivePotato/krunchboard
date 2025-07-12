@@ -15003,7 +15003,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 537.21 228.6 270)
+		(at 537.21 231.14 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15012,7 +15012,7 @@
 		(fields_autoplaced yes)
 		(uuid "5524f04c-83f1-47e2-993f-8e3fbe498ea2")
 		(property "Reference" "#PWR013"
-			(at 530.86 228.6 0)
+			(at 530.86 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15021,7 +15021,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 533.4 228.5999 90)
+			(at 533.4 231.1399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15030,7 +15030,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 537.21 228.6 0)
+			(at 537.21 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15039,7 +15039,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 537.21 228.6 0)
+			(at 537.21 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15048,7 +15048,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 537.21 228.6 0)
+			(at 537.21 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22193,7 +22193,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 537.21 231.14 90)
+		(at 537.21 228.6 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22202,7 +22202,7 @@
 		(fields_autoplaced yes)
 		(uuid "d3c47c60-b702-4539-be36-5a124f614615")
 		(property "Reference" "#PWR012"
-			(at 541.02 231.14 0)
+			(at 541.02 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22211,7 +22211,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 533.4 231.1399 90)
+			(at 533.4 228.5999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22220,7 +22220,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 537.21 231.14 0)
+			(at 537.21 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22229,7 +22229,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 537.21 231.14 0)
+			(at 537.21 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22238,7 +22238,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 537.21 231.14 0)
+			(at 537.21 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
