@@ -11,18 +11,18 @@ I made this keyboard after I designed my [macropad](https://github.com/Radioacti
 
 | Schematic |
 |-----------|
-| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/schematic.png) |
+| ![Schematic](assets/schematic.png) |
 
 </details>
 
 | PCB | 3D Preview | Case |
 |-----|------------|------|
-| ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/cad-v1.png) |
-| | ![3D-Back](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/3dback.png) | |
+| ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Baseplate](assets/cad-v1.png) |
+| | ![3D-Back](assets/3dback.png) | |
 
 # Case
 
- ![](https://raw.githubusercontent.com/RadioactivePotato/krunchboard/refs/heads/main/assets/case.png)
+ ![](assets/case.png)
 
 # BOM
 | Qty | Item                               | Notes                             | Cost (GBP) | URL                                                                                  |
