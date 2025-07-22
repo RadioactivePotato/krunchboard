@@ -11004,7 +11004,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left"
 			(at 542.29 228.6 0)
 			(effects
 				(font
@@ -19587,7 +19587,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0.91-OLED:SSD1306-0.91-OLED-4pin-128x32"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left"
 			(at 335.28 78.74 0)
 			(effects
 				(font
