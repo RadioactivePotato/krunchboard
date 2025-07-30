@@ -31,7 +31,7 @@ I made this keyboard after I designed my [macropad](https://github.com/Radioacti
 | 1   | 0.96" OLED Display                 |                                   | 1.99       | [AliExpress](https://www.aliexpress.com/item/1005007772649282.html)                 |
 | 1   | MX Stabilisers Set                | For big keycaps                   | 6.38       | [Amazon](https://www.amazon.co.uk/gp/product/B0FGHP1QQN)                            |
 | 1   | MCP23017 GPIO Expander (SOIC-28)  | I will buy this myself            | 1.43       | [Digi-Key](https://www.digikey.co.uk/en/products/detail/microchip-technology/MCP23017-E-SO/894271) |
-| 2   | 4 Slot 2.54mm Socket              | I will buy this myself            | 0.50       | [Digi-Key](https://www.digikey.co.uk/en/products/detail/adam-tech/RS1-04-G/9829303) |
+| 2   | 4 Slot 2.54mm Socket (SMD)        | I will buy this myself            | 3.10       | [Digi-Key](https://www.digikey.co.uk/en/products/detail/samtec-inc/SSM-104-L-SV-BE/7859809) |
 | 6   | SK6812MINI-E / SK6812E Neopixel   | Already have some                 | 2.17       | [Digi-Key](https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/4960/14302512) |
 |     |                                    |                                   |            |                                                                                      |
 | 1   | Keycaps Set                        | Includes -16.73 welcome discount | 18.29      | [AliExpress](https://www.aliexpress.com/item/1005007320960510.html)                 |
@@ -39,8 +39,8 @@ I made this keyboard after I designed my [macropad](https://github.com/Radioacti
 | 5   | Tactile MX-Style Switch           | Macro keys                        | 3.99       | [Amazon](https://www.amazon.co.uk/dp/B0DSJ21RDS)                                    |
 | 1   | Keycaps Remover                   | Tools                             | 2.98       | [Amazon](https://www.amazon.co.uk/gp/product/B0CVM8HSFX)                             |
 |     |                                    |                                   |            |                                                                                      |
-| 6   | M3x5mmx4mm Heatset Inserts (W\*H) | For mounting                      | 2.19       | [Amazon](https://www.amazon.co.uk/dp/B0D1WVNW3G)                                    |
-| 6   | M3x4mm Screws                     | For case assembly                 | 3.39       | [Amazon](https://www.amazon.co.uk/dp/B0DRGVKT3R)                                    |
+| 12  | M3x5mmx4mm Heatset Inserts (W\*H) | For mounting                      | 2.19       | [Amazon](https://www.amazon.co.uk/dp/B0D1WVNW3G)                                    |
+| 12  | M3x4mm Screws                     | For case assembly                 | 3.39       | [Amazon](https://www.amazon.co.uk/dp/B0DRGVKT3R)                                    |
 |     |                                    |                                   |            |                                                                                      |
 | 1   | Solder Paste                      | Reflow soldering for SMD          | 6.78       | [Amazon](https://www.amazon.co.uk/dp/B0DJX4D5BK)                                    |
 | 1   | Solder Wire                       | 50g                               | 3.75       | [AliExpress](https://www.aliexpress.com/item/1005008053204920.html)                 |
