@@ -6,19 +6,14 @@ I made this keyboard after I designed my [macropad](https://github.com/Radioacti
 
 # Images
 
-<details>
-<summary>Schematic (click to expand)</summary>
-
 | Schematic |
 |-----------|
 | ![Schematic](assets/schematic.png) |
 
-</details>
-
 | PCB | 3D Preview | Case |
 |-----|------------|------|
-| ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Baseplate](assets/cad-v1.png) |
-| | ![3D-Back](assets/3dback.png) | |
+| ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Case1](assets/case1.png) |
+| ![Case](assets/case.png) | ![3D-Back](assets/3dback.png) | ![Case2](assets/case2.png) |
 
 # Case
 

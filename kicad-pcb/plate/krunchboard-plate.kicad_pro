@@ -269,7 +269,7 @@
       "plot": "gerber/regular/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/krunchboard-plate.stl",
+      "step": "../krunchboard-plate.stl",
       "svg": "",
       "vrml": ""
     },
