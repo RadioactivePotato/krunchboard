@@ -19,6 +19,8 @@ I made this keyboard after I designed my [macropad](https://github.com/Radioacti
 
 ![Render2](assets/render2.png)
 
+![Render3](assets/render3.png)
+
 # BOM
 | Qty | Item                               | Notes                                     | Cost (USD) | URL                                                                                                         |
 |-----|------------------------------------|-------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------|
