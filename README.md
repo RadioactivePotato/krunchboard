@@ -44,17 +44,15 @@ I made this keyboard after I designed my [macropad](https://github.com/Radioacti
 | 12  | M3x5mmx4mm Heatset Inserts (W\*H)  | For mounting                              | 2.13       | [AliExpress](https://www.aliexpress.com/item/1005007640664497.html)                                         |
 | 12  | M3x5mm Screws                      | For case assembly                         | 2.44       | [AliExpress](https://www.aliexpress.com/item/1005006621501802.html)                                         |
 |     |                                    |                                           |            |                                                                                                             |
-| 1   | Solder Paste                       | Reflow soldering for SMD                  | 9.90       | [Amazon](https://www.amazon.co.uk/dp/B0D4QTT6S3)                                                            |
+| 1   | Solder Paste                       | Reflow soldering for SMD                  | 5.11       | [AliExpress](https://www.aliexpress.com/item/1005009377104599.htm)                                          |
 | 1   | Solder Wire                        | 50g                                       | 3.32       | [AliExpress](https://www.aliexpress.com/item/1005008053204920.html)                                         |
 |     |                                    |                                           |            |                                                                                                             |
 | 1   | 3D Printed Case                    | print-legion postage (via royal mail)     | 7.00       | print-legion                                                                                                |
 | 1   | PCB                                | Shipping $12.89                           | 41.79      | JLCPCB                                                                                                      |
 |     |                                    |                                           |            |                                                                                                             |
-|     |                                    | **Total AliExpress (GBP)**                | **56.71**  |                                                                                                             |
-|     |                                    | **Total Amazon (GBP)**                    | **9.90**   |                                                                                                             |
-|     |                                    | **Total AliExpress + Amazon (GBP)**       | **66.61**  |                                                                                                             |
+|     |                                    | **Total AliExpress (GBP)**                | **61.82**  |                                                                                                             |
 |     |                                    | **PCB and Case (GBP)**                    | **48.79**  |                                                                                                             |
-|     |                                    | Total (USD)**                             | **115.40** |                                                                                                             |
+|     |                                    | Total (USD)**                             | **103.61** |                                                                                                             |
 
 
 ![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
