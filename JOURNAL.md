@@ -211,3 +211,20 @@ And then I added some silkscreen art to the front as well, and then added a 0.96
 And that's the whole project done!
 
 </details>
+
+# August 16 - Case V1.3 (3 hours)
+
+<details>
+<summary>Click to expand</summary>
+
+I wanted to fill in the empty space on the right side of the case, I decided that I would add some hexagon holes to allow the user to be able to see into the PCB, where the silkscreen art is.
+
+I originally decided to just use a [pattern plugin for OnShape](https://forum.onshape.com/discussion/16660/hexagonal-pattern), but it was too confusing and won't let me put the pattern too close to each other. So I decided to place the holes manually,
+
+The holes will be 0.5mm apart which should be printable by 3D printers.
+
+![gap](assets/journal/image.png)
+
+![render3](assets/render3.png)
+
+</details>
