@@ -1,12 +1,18 @@
 # krunchboard
-A 80% (92+1 switches) ISO mechanical keyboard powered by Raspberry Pi Pico
+A custom 80% ISO mechanical keyboard powered by a Raspberry Pi Pico with KMK
+
+# Note
+
+Prod V1 of the PCB has its I2C lines flipped for the 0.91" OLED Display and MCP23017
+
+Firmware doesn't work yet
 
 # About
 I made this keyboard after I designed my [macropad](https://github.com/RadioactivePotato/krunchpad), and I thought this would be a fun project to do, I've also never owned a mechanical keyboard so maybe this is a good way to start?
 
 # Images
 
-![Schematic](assets/schematic.png) |
+![Schematic](assets/schematic.png)
 
 | PCB | 3D View |
 |-----|------------|
