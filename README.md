@@ -1,3 +1,5 @@
+# NO LONGER UPDATE, CHECK OUT A NEWER VERSION [HERE](https://github.com/krunchiekrunch/krunchboard-90)
+
 # krunchboard
 A custom 80% ISO mechanical keyboard powered by a Raspberry Pi Pico with KMK
 
